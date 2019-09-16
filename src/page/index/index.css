@@ -1,5 +1,5 @@
 body{
 	width: 1000px;
 	height: 1000px;
-	background-image: linear-gradient(to top,yellow,green,blue);
+	background-image: url(../../image/img.png);
 }
